@@ -13,7 +13,7 @@ export default class App extends Component {
         <NavBar/>   
         <News pageSize={5} country="in" category="science"/>
         <Spinner/>
-        
+        <h1>hello</h1>
           
          
         {/* </Router> */}
